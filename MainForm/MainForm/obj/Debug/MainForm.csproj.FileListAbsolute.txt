@@ -1,0 +1,70 @@
+C:\Users\1\Documents\Visual Studio 2013\Projects\FM-project\MainForm\MainForm\bin\Debug\MainForm.exe.config
+C:\Users\1\Documents\Visual Studio 2013\Projects\FM-project\MainForm\MainForm\bin\Debug\MainForm.exe
+C:\Users\1\Documents\Visual Studio 2013\Projects\FM-project\MainForm\MainForm\bin\Debug\MainForm.pdb
+C:\Users\1\Documents\Visual Studio 2013\Projects\FM-project\MainForm\MainForm\obj\Debug\MainForm.Form1.resources
+C:\Users\1\Documents\Visual Studio 2013\Projects\FM-project\MainForm\MainForm\obj\Debug\MainForm.Properties.Resources.resources
+C:\Users\1\Documents\Visual Studio 2013\Projects\FM-project\MainForm\MainForm\obj\Debug\MainForm.csproj.GenerateResource.Cache
+C:\Users\1\Documents\Visual Studio 2013\Projects\FM-project\MainForm\MainForm\obj\Debug\MainForm.exe
+C:\Users\1\Documents\Visual Studio 2013\Projects\FM-project\MainForm\MainForm\obj\Debug\MainForm.pdb
+C:\Users\1\Documents\Visual Studio 2013\Projects\FM-project\MainForm\MainForm\obj\Debug\MainForm.LVKontrol.resources
+C:\Users\1\Documents\Visual Studio 2013\Projects\FM-project\MainForm\MainForm\obj\Debug\MainForm.csprojResolveAssemblyReference.cache
+E:\FM-project\MainForm\MainForm\bin\Debug\MainForm.exe.config
+E:\FM-project\MainForm\MainForm\obj\Debug\MainForm.exe
+E:\FM-project\MainForm\MainForm\obj\Debug\MainForm.pdb
+E:\FM-project\MainForm\MainForm\bin\Debug\MainForm.exe
+E:\FM-project\MainForm\MainForm\bin\Debug\MainForm.pdb
+E:\FM-project\MainForm\MainForm\obj\Debug\MainForm.Form1.resources
+E:\FM-project\MainForm\MainForm\obj\Debug\MainForm.LVKontrol.resources
+E:\FM-project\MainForm\MainForm\obj\Debug\MainForm.Properties.Resources.resources
+E:\FM-project\MainForm\MainForm\obj\Debug\MainForm.csproj.GenerateResource.Cache
+G:\FM-project\MainForm\MainForm\bin\Debug\MainForm.exe.config
+G:\FM-project\MainForm\MainForm\obj\Debug\MainForm.exe
+G:\FM-project\MainForm\MainForm\obj\Debug\MainForm.pdb
+G:\FM-project\MainForm\MainForm\bin\Debug\MainForm.exe
+G:\FM-project\MainForm\MainForm\bin\Debug\MainForm.pdb
+G:\FM-project\MainForm\MainForm\obj\Debug\MainForm.csprojResolveAssemblyReference.cache
+G:\FM-project\MainForm\MainForm\obj\Debug\MainForm.Form1.resources
+G:\FM-project\MainForm\MainForm\obj\Debug\MainForm.LVKontrol.resources
+G:\FM-project\MainForm\MainForm\obj\Debug\MainForm.Properties.Resources.resources
+G:\FM-project\MainForm\MainForm\obj\Debug\MainForm.csproj.GenerateResource.Cache
+E:\FM-project\MainForm\MainForm\obj\Debug\MainForm.csprojResolveAssemblyReference.cache
+E:\Учеба\Работы для КузГТУ\3 курс\Программная инженерия\FM-project\MainForm\MainForm\bin\Debug\MainForm.exe.config
+E:\Учеба\Работы для КузГТУ\3 курс\Программная инженерия\FM-project\MainForm\MainForm\obj\Debug\MainForm.exe
+E:\Учеба\Работы для КузГТУ\3 курс\Программная инженерия\FM-project\MainForm\MainForm\obj\Debug\MainForm.pdb
+E:\Учеба\Работы для КузГТУ\3 курс\Программная инженерия\FM-project\MainForm\MainForm\bin\Debug\MainForm.exe
+E:\Учеба\Работы для КузГТУ\3 курс\Программная инженерия\FM-project\MainForm\MainForm\bin\Debug\MainForm.pdb
+E:\Учеба\Работы для КузГТУ\3 курс\Программная инженерия\FM-project\MainForm\MainForm\obj\Debug\MainForm.Form1.resources
+E:\Учеба\Работы для КузГТУ\3 курс\Программная инженерия\FM-project\MainForm\MainForm\obj\Debug\MainForm.LVKontrol.resources
+E:\Учеба\Работы для КузГТУ\3 курс\Программная инженерия\FM-project\MainForm\MainForm\obj\Debug\MainForm.Properties.Resources.resources
+E:\Учеба\Работы для КузГТУ\3 курс\Программная инженерия\FM-project\MainForm\MainForm\obj\Debug\MainForm.csproj.GenerateResource.Cache
+E:\Учеба\Работы для КузГТУ\3 курс\Программная инженерия\FM-project\MainForm\MainForm\obj\Debug\MainForm.csprojResolveAssemblyReference.cache
+E:\FMProject_home\FM-project\MainForm\MainForm\bin\Debug\MainForm.exe.config
+E:\FMProject_home\FM-project\MainForm\MainForm\obj\Debug\MainForm.exe
+E:\FMProject_home\FM-project\MainForm\MainForm\obj\Debug\MainForm.pdb
+E:\FMProject_home\FM-project\MainForm\MainForm\bin\Debug\MainForm.exe
+E:\FMProject_home\FM-project\MainForm\MainForm\bin\Debug\MainForm.pdb
+E:\FMProject_home\FM-project\MainForm\MainForm\obj\Debug\MainForm.csprojResolveAssemblyReference.cache
+E:\FMProject_home\FM-project\MainForm\MainForm\obj\Debug\MainForm.Form1.resources
+E:\FMProject_home\FM-project\MainForm\MainForm\obj\Debug\MainForm.LVKontrol.resources
+E:\FMProject_home\FM-project\MainForm\MainForm\obj\Debug\MainForm.Properties.Resources.resources
+E:\FMProject_home\FM-project\MainForm\MainForm\obj\Debug\MainForm.csproj.GenerateResource.Cache
+G:\FMProject_home\FM-project\MainForm\MainForm\bin\Debug\MainForm.exe.config
+G:\FMProject_home\FM-project\MainForm\MainForm\obj\Debug\MainForm.exe
+G:\FMProject_home\FM-project\MainForm\MainForm\obj\Debug\MainForm.pdb
+G:\FMProject_home\FM-project\MainForm\MainForm\bin\Debug\MainForm.exe
+G:\FMProject_home\FM-project\MainForm\MainForm\bin\Debug\MainForm.pdb
+G:\FMProject_home\FM-project\MainForm\MainForm\obj\Debug\MainForm.Form1.resources
+G:\FMProject_home\FM-project\MainForm\MainForm\obj\Debug\MainForm.LVKontrol.resources
+G:\FMProject_home\FM-project\MainForm\MainForm\obj\Debug\MainForm.Properties.Resources.resources
+G:\FMProject_home\FM-project\MainForm\MainForm\obj\Debug\MainForm.csproj.GenerateResource.Cache
+G:\FMProject_home\FM-project\MainForm\MainForm\obj\Debug\MainForm.csprojResolveAssemblyReference.cache
+C:\Users\Александр\Desktop\FMProject_home\FM-project\MainForm\MainForm\bin\Debug\MainForm.exe.config
+C:\Users\Александр\Desktop\FMProject_home\FM-project\MainForm\MainForm\obj\Debug\MainForm.exe
+C:\Users\Александр\Desktop\FMProject_home\FM-project\MainForm\MainForm\obj\Debug\MainForm.pdb
+C:\Users\Александр\Desktop\FMProject_home\FM-project\MainForm\MainForm\bin\Debug\MainForm.exe
+C:\Users\Александр\Desktop\FMProject_home\FM-project\MainForm\MainForm\bin\Debug\MainForm.pdb
+C:\Users\Александр\Desktop\FMProject_home\FM-project\MainForm\MainForm\obj\Debug\MainForm.csprojResolveAssemblyReference.cache
+C:\Users\Александр\Desktop\FMProject_home\FM-project\MainForm\MainForm\obj\Debug\MainForm.Form1.resources
+C:\Users\Александр\Desktop\FMProject_home\FM-project\MainForm\MainForm\obj\Debug\MainForm.LVKontrol.resources
+C:\Users\Александр\Desktop\FMProject_home\FM-project\MainForm\MainForm\obj\Debug\MainForm.Properties.Resources.resources
+C:\Users\Александр\Desktop\FMProject_home\FM-project\MainForm\MainForm\obj\Debug\MainForm.csproj.GenerateResource.Cache
